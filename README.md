@@ -113,26 +113,6 @@ Accept the license terms. Select a custom install.       <br/>
 <br />
 
 <br />
-Accept the license terms. Select a custom install.       <br/>
- 
-<img src="https://i.imgur.com/3xaFUya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-<br />
-
-<br />
-
-<br />
-Accept the license terms. Select a custom install.       <br/>
- 
-<img src="https://i.imgur.com/3xaFUya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-<br />
-
-<br />
-
-<br />
 Select the only drive you have and select "next".      <br/>
  
 <img src="https://i.imgur.com/jJMfHB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
