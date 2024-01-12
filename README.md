@@ -112,7 +112,7 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 
 <br />
                          <br/>
-<img src="https://i.imgur.com/LKCPerD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br /> 
 <br />
 <br />
