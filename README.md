@@ -122,7 +122,7 @@ Select the only drive you have and select "next".      <br/>
 <br />
 
 <br />
- -Wait until the installation is complete and the system reboots itself.
+-Wait until the installation is complete and the system reboots itself.
 
 -Select your region.
 
@@ -141,9 +141,7 @@ Select the only drive you have and select "next".      <br/>
 <br />
   Select "Continue with limited setup" in the left bottom corner.    <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
+<img src="https://i.imgur.com/reKmt5N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
@@ -155,14 +153,7 @@ Select the only drive you have and select "next".      <br/>
 -Setup your 3 security questions.
 
 -Set all other options to the minimal value. (no location, no track, etc.)       <br/>
- 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
-<br />
-
-
-<br />
 
 <br />
 -Connect to your administrator account.
@@ -173,29 +164,26 @@ Select the only drive you have and select "next".      <br/>
 
 -Select your card properties.
 
--Go to "Internet Protocol Version 4" > Properties.    <br/>
+-Go to "Internet Protocol Version 4" > Properties. 
+
+-Assign IP    <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gJw1lwQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
 
 <br />
-
-<br />
-                        <br/>
+Try to join the gateway. (try to connect to your LAN INTERFACE in pfSense)   <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
 
 <br />
-
-<br />
-                        <br/>
+  Ping your LAN in pfSense to make sure you are connected.         <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/w5Nx9UU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
@@ -203,9 +191,9 @@ Select the only drive you have and select "next".      <br/>
 <br />
 
 <br />
-                        <br/>
+Rename the PC with a name you can easily remember. Restart your VM.                        <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qiKdZGT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
