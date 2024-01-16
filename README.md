@@ -201,9 +201,9 @@ Rename the PC with a name you can easily remember. Restart your VM.             
 <br />
 
 <br />
-                        <br/>
+ Go to "Advanced system settings". Select "Change".            <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bp45gpv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
@@ -211,9 +211,9 @@ Rename the PC with a name you can easily remember. Restart your VM.             
 <br />
 
 <br />
-                         <br/>
+Select "Domain" and enter your netbios domain name. Enter your Administrator domain account credentials. Then reboot your VM.                     <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dDsdkof.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
@@ -223,7 +223,6 @@ Rename the PC with a name you can easily remember. Restart your VM.             
 <br />
                           <br/>
  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
